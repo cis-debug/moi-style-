@@ -2,7 +2,7 @@
 # Style-Git
 
 <div align="center">
-  <img src="https://github.com/cis-debug/cis-debug/raw/main/ton-image.jpg" width="150" style="border-radius: 50%; border: 3px solid #39d353;" />
+  <img src="https://github.com/cis-debug/cis-debug/raw/main/Capture d’écran 2026-08-18 221051.png" width="150" style="border-radius: 50%; border: 3px solid #39d353;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Debug</h1>
@@ -64,4 +64,5 @@ Passionnée par l'administration des infrastructures IT, l'automatisation et les
   <img src="https://komarev.com/ghpvc/?username=cis-debug&color=39d353&style=for-the-badge" />
 </div>
 
-<p align="center">✨ DevOps Engineer and Cybersecurity ✨</p>
+<p align="center">✨ DevOps Engineer and Cybersecurity <img width="480" height="380" alt="ProgrammingRulesGIFbyProductDock" src="https://github.com/user-attachments/assets/cd06e82b-abff-4149-9fba-925d5e7738fb" />
+✨</p>
