@@ -63,3 +63,5 @@ Passionnée par l'administration des infrastructures IT, l'automatisation et les
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cis-debug&color=39d353&style=for-the-badge" />
 </div>
+
+<p align="center">✨ DevOps Engineer and Cybersecurity ✨</p>
