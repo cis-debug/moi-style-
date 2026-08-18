@@ -114,5 +114,5 @@ Tableaux de bord Grafana, Collecte métriques Prometheus<br>
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cis-debug&color=39d353&style=for-the-badge" />
-  <p>✨ DevOps Engineer in the making ✨</p>
+  <p>✨ DevOps Engineer and cybersecurity 💻✨</p>
 </div>
